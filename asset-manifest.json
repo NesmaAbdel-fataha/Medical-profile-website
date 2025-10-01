@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Medical-profile-website/static/css/main.c2c7102a.css",
+    "main.js": "/Medical-profile-website/static/js/main.07535263.js",
+    "static/js/453.a4c6e34c.chunk.js": "/Medical-profile-website/static/js/453.a4c6e34c.chunk.js",
+    "static/media/pngwing.com.png": "/Medical-profile-website/static/media/pngwing.com.921703fc1413c9e16a28.png",
+    "static/media/insta.png": "/Medical-profile-website/static/media/insta.80e598d8df0c0a94d580.png",
+    "static/media/watsap.png": "/Medical-profile-website/static/media/watsap.807cf0d84060a9ee2059.png",
+    "static/media/health.png": "/Medical-profile-website/static/media/health.858c2759c299a176c45d.png",
+    "index.html": "/Medical-profile-website/index.html",
+    "main.c2c7102a.css.map": "/Medical-profile-website/static/css/main.c2c7102a.css.map",
+    "main.07535263.js.map": "/Medical-profile-website/static/js/main.07535263.js.map",
+    "453.a4c6e34c.chunk.js.map": "/Medical-profile-website/static/js/453.a4c6e34c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2c7102a.css",
+    "static/js/main.07535263.js"
+  ]
+}
