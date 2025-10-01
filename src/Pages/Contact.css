@@ -1,0 +1,116 @@
+form{
+    background-color: #fff;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+   padding: 15px;
+}
+form .form-control{
+  
+    border: none;
+}
+form input,form textarea,form select{
+width: 100%;
+height: 50px;
+background-color: #fff;
+border: 1px solid #aaa;
+padding: 10px;
+ margin: 10px 0px;
+ border-radius: 4px;
+ color: #333;
+ font-size: 17px;
+ outline: none;
+}
+form textarea{
+    height: 120px;
+}
+form input:hover,form textarea:hover{
+border: 1px solid var(--main-color);
+transition: .2s ease-in-out;
+}
+form p{
+    color: red;
+}
+form button{
+
+    width: 100%;
+    max-width: 100%;
+    background-color: var(--sec-color);
+    border:1px solid var(--sec-color);
+    border-radius: 4px;
+    color: #fff;
+    height: 50px;
+    font-weight: bold;
+    letter-spacing: 1px ;
+    font-size: 20px ;
+}
+form button:hover{
+background-color: transparent;
+color: var(--sec-color);
+transition: .3s ease-in-out;
+
+}
+/* side */
+.side{
+background: url("../assets/images/2doc.jpg") center;
+width: 100%;
+max-width: 100%;
+background-size: cover;
+height: auto;
+border-radius: 8px;
+margin-top: 10px;
+}
+.side .overlay{
+    padding: 15px;
+   border-radius: 8px;
+    background-color:rgba(12, 115, 133, 0.384);
+    padding: 20px 15px;
+}
+.side .overlay h3{
+color: #fff;
+    font-size: 20px;
+    margin-top: 60px;
+}
+.follow{
+    font-weight: bold;
+}
+.side .overlay li{
+color: #fff;
+font-size: 17px;
+margin: 10px 0px;
+}
+.side .overlay li svg{
+    margin-right: 15px;
+}
+.side .overlay p{
+color: #fff;
+font-size: 17px;
+margin: 10px 0px;
+}
+.side .overlay hr{
+    width: 70%;
+   color: white;
+}
+.side .overlay ul{
+    padding: 0px;
+
+}
+
+.side .overlay ul li{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-right: 10px;
+    background-color: #fff;
+    border-radius: 4px;
+ 
+}
+.side .overlay ul li svg{
+   color: var(--btn-color);
+  text-align: center;
+  padding-left: 10px;
+} 
+
